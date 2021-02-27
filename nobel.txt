@@ -1,4 +1,4 @@
-Nome	Anno	Premio	Data di nascita	Anno	Mese	Giorno	Data 2000	Segno Zodiacale
+Nome	Anno	Premio	Data di nascita	Segno Zodiacale
 Vant'Hoff Jacobus Henricus	1901	Chimica	30/08/1852	06-Vergine
 Rãntgen Wilhelm Konrad	1901	Fisica	27/03/1845	01-Ariete
 Sully Proudhomme Renã	1901	Letteratura	16/03/1839	12-Pesci
