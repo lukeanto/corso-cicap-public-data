@@ -1,0 +1,796 @@
+Nome	Anno	Premio	Data di nascita	Anno	Mese	Giorno	Data 2000	Segno Zodiacale
+Vant'Hoff Jacobus Henricus	1901	Chimica	30/08/1852	06-Vergine
+Rãntgen Wilhelm Konrad	1901	Fisica	27/03/1845	01-Ariete
+Sully Proudhomme Renã	1901	Letteratura	16/03/1839	12-Pesci
+Von Behring Emil	1901	Medicina	15/03/1854	12-Pesci
+Dunant Henry	1901	Pace	08/05/1828	02-Toro
+Fischer Emil	1902	Chimica	09/10/1852	07-Bilancia
+Lorentz Hendrik Antoon	1902	Fisica	18/07/1853	04-Cancro
+Zeeman Pieter	1902	Fisica	25/05/1865	03-Gemelli
+Mommsen Theodor	1902	Letteratura	30/11/1817	09-Sagittario
+Ross Ronald	1902	Medicina	13/05/1857	02-Toro
+Becquerel Antoine Henry	1903	Fisica	15/12/1852	09-Sagittario
+Curie Marie	1903	Fisica	07/11/1867	08-Scorpione
+Curie Pierre	1903	Fisica	15/05/1859	02-Toro
+Bjãrnson Bjãrnstjerne	1903	Letteratura	08/12/1832	09-Sagittario
+Finsen Niels Ryberg	1903	Medicina	15/12/1860	09-Sagittario
+Cremer William Randal	1903	Pace	18/03/1828	12-Pesci
+Ramsay William	1904	Chimica	02/10/1852	07-Bilancia
+Strutt John William (lord Rayleigh)	1904	Fisica	12/11/1842	08-Scorpione
+Echegaray Y Eizaguirre Josã	1904	Letteratura	19/04/1832	01-Ariete
+Mistral Frãdãric	1904	Letteratura	08/09/1830	06-Vergine
+Pavlov Ivan Petrovich	1904	Medicina	26/09/1849	07-Bilancia
+Von Baeyer Adolf	1905	Chimica	31/10/1835	08-Scorpione
+Von Lenard Philipp	1905	Fisica	07/06/1862	03-Gemelli
+Sienkiewicz Henryk	1905	Letteratura	05/05/1846	02-Toro
+Koch Robert	1905	Medicina	11/12/1843	09-Sagittario
+Von Suttner Bertha	1905	Pace	09/06/1843	03-Gemelli
+Moissan Henri	1906	Chimica	28/09/1852	07-Bilancia
+Thomson Joseph John	1906	Fisica	18/12/1856	09-Sagittario
+Carducci Giosuã	1906	Letteratura	27/07/1835	05-Leone
+Golgi Camillo	1906	Medicina	07/07/1843	04-Cancro
+Ramon Y Cajal Santiago	1906	Medicina	01/05/1852	02-Toro
+Roosevelt Theodore	1906	Pace	27/10/1858	08-Scorpione
+Michelson Albert Abraham	1907	Fisica	19/12/1852	09-Sagittario
+Kipling Rudyard	1907	Letteratura	30/12/1865	10-Capricorno
+Laveran Charles Louis Antoine	1907	Medicina	18/06/1845	03-Gemelli
+Moneta Ernesto Teodoro	1907	Pace	20/09/1833	06-Vergine
+Rutherford Ernest	1908	Chimica	30/08/1871	06-Vergine
+Lippmann Gabriel	1908	Fisica	16/08/1845	05-Leone
+Eucken Rudolph	1908	Letteratura	05/01/1846	10-Capricorno
+Ehrlich Paul	1908	Medicina	14/03/1854	12-Pesci
+Mecnikov Ilya Ilich	1908	Medicina	16/05/1845	02-Toro
+Arnoldson Klas Pontus	1908	Pace	27/10/1844	08-Scorpione
+Ostwald Wilhelm	1909	Chimica	02/09/1853	06-Vergine
+Braun Karl Ferdinand	1909	Fisica	06/06/1850	03-Gemelli
+Marconi Guglielmo	1909	Fisica	25/04/1874	02-Toro
+Lagerlãf Selma	1909	Letteratura	20/11/1858	08-Scorpione
+Kocher Theodor	1909	Medicina	25/08/1841	06-Vergine
+Beernaert August Marie Franãois	1909	Pace	26/07/1829	05-Leone
+Wallach Otto	1910	Chimica	27/03/1847	01-Ariete
+Heyse Paul	1910	Letteratura	15/03/1830	12-Pesci
+Kossel Albrecht	1910	Medicina	16/09/1853	06-Vergine
+Curie Marie	1911	Chimica	07/11/1867	08-Scorpione
+Wien Wilhelm	1911	Fisica	13/01/1864	10-Capricorno
+Maeterlinck Maurice	1911	Letteratura	29/08/1862	06-Vergine
+Gullstrand Allvar	1911	Medicina	05/06/1862	03-Gemelli
+Asser Tobias Michael Carel	1911	Pace	28/04/1838	02-Toro
+Fried Alfred	1911	Pace	11/11/1864	08-Scorpione
+Grignard Victor	1912	Chimica	06/05/1871	02-Toro
+Sabatier Paul	1912	Chimica	05/11/1854	08-Scorpione
+Dalãn Gustaf	1912	Fisica	30/11/1869	09-Sagittario
+Hauptmann Gerhart	1912	Letteratura	15/11/1862	08-Scorpione
+Carrel Alexis	1912	Medicina	28/06/1873	04-Cancro
+Root Elihu	1912	Pace	15/02/1845	11-Aquario
+Werner Alfred	1913	Chimica	12/12/1866	09-Sagittario
+Kamerling Onnes Heike	1913	Fisica	21/09/1853	06-Vergine
+Tagore Rabindranath	1913	Letteratura	07/05/1861	02-Toro
+Richet Charles	1913	Medicina	26/08/1850	06-Vergine
+La Fontaine Henri	1913	Pace	22/04/1854	02-Toro
+Richards Theodore William	1914	Chimica	31/01/1868	11-Aquario
+Von Laue Max	1914	Fisica	09/10/1879	07-Bilancia
+Bãrãny Robert	1914	Medicina	22/04/1876	02-Toro
+Willstaetter Richard Martin	1915	Chimica	13/08/1872	05-Leone
+Bragg William Henry	1915	Fisica	02/07/1862	04-Cancro
+Bragg William Lawrence	1915	Fisica	31/03/1890	01-Ariete
+Rolland Romain	1915	Letteratura	29/01/1866	11-Aquario
+Von Heidenstam Verner	1916	Letteratura	06/07/1859	04-Cancro
+Barkla Charles Glover	1917	Fisica	07/06/1877	03-Gemelli
+Gjellerup Karl	1917	Letteratura	02/06/1857	03-Gemelli
+Pontoppidan Henryk	1917	Letteratura	24/07/1857	05-Leone
+Haber Fritz	1918	Chimica	09/12/1868	09-Sagittario
+Planck Max	1918	Fisica	23/04/1858	02-Toro
+Stark Johannes	1919	Fisica	15/04/1874	01-Ariete
+Spitteler Carl	1919	Letteratura	24/04/1845	02-Toro
+Bordet Jules	1919	Medicina	13/06/1870	03-Gemelli
+Wilson Theodore Woodrow	1919	Pace	28/12/1856	10-Capricorno
+Nernst Walther Hermann	1920	Chimica	25/06/1864	04-Cancro
+Guillaume Charles-Edouard	1920	Fisica	15/02/1861	11-Aquario
+Hamsun Knut	1920	Letteratura	04/08/1859	05-Leone
+Krogh Shack August Steenberg	1920	Medicina	15/11/1874	08-Scorpione
+Soddy Frederik	1921	Chimica	02/09/1877	06-Vergine
+Einstein Albert	1921	Fisica	14/03/1879	12-Pesci
+France Anatole	1921	Letteratura	16/04/1844	01-Ariete
+Lange Christian Lous	1921	Pace	17/09/1869	06-Vergine
+Aston Francis William	1922	Chimica	01/09/1877	06-Vergine
+Bohr Niels	1922	Fisica	07/10/1885	07-Bilancia
+Benavente Jacinto	1922	Letteratura	12/08/1866	05-Leone
+Hill Archibald Vivian	1922	Medicina	26/09/1886	07-Bilancia
+Meyerhof Otto Fritz	1922	Medicina	12/04/1884	01-Ariete
+Nansen Fridtjof	1922	Pace	10/10/1861	07-Bilancia
+Pregl Fritz	1923	Chimica	03/09/1869	06-Vergine
+Millikan Robert Andrews	1923	Fisica	22/03/1868	01-Ariete
+Yeats William Butler	1923	Letteratura	13/06/1865	03-Gemelli
+Banting Frederik Grant	1923	Medicina	14/11/1891	08-Scorpione
+Macleod John James Richard	1923	Medicina	06/09/1876	06-Vergine
+Siegbahn Karl Manne Georg	1924	Fisica	03/12/1886	09-Sagittario
+Reymont Wladyslaw Stanislaw	1924	Letteratura	07/05/1867	02-Toro
+Zsigmondy Richard Adolf	1925	Chimica	01/04/1865	01-Ariete
+Franck James	1925	Fisica	26/08/1882	06-Vergine
+Shaw George Bernard	1925	Letteratura	26/07/1856	05-Leone
+Chamberlain Austen Joseph	1925	Pace	16/10/1863	07-Bilancia
+Dawes Charles Gates	1925	Pace	27/08/1865	06-Vergine
+Svedberg The	1926	Chimica	30/08/1884	06-Vergine
+Perrin Jean Baptiste	1926	Fisica	30/09/1870	07-Bilancia
+Deledda Grazia	1926	Letteratura	27/09/1871	07-Bilancia
+Fibiger Johannes Andreas Grib	1926	Medicina	23/04/1867	02-Toro
+Briand Aristide	1926	Pace	28/03/1862	01-Ariete
+Stresemann Gustav	1926	Pace	10/05/1878	02-Toro
+Wieland Heinrich Otto	1927	Chimica	04/06/1877	03-Gemelli
+Compton Arthur Holli	1927	Fisica	10/09/1892	06-Vergine
+Wilson Charles Thomson Rees	1927	Fisica	14/02/1869	11-Aquario
+Bergson Henri	1927	Letteratura	18/10/1859	07-Bilancia
+Wagner-Jauregg Julius	1927	Medicina	07/03/1857	12-Pesci
+Buisson Ferdinand	1927	Pace	20/12/1841	09-Sagittario
+Quidde Ludwig	1927	Pace	23/03/1858	01-Ariete
+Windaus Adolf	1928	Chimica	25/12/1876	10-Capricorno
+Richardson Owen Willans	1928	Fisica	26/04/1879	02-Toro
+Nicolle Charles Jules Henry	1928	Medicina	21/09/1866	06-Vergine
+Harden Arthur	1929	Chimica	12/10/1865	07-Bilancia
+Von Euler-Chalpin Hans	1929	Chimica	15/02/1873	11-Aquario
+De Broglie Louis Victor	1929	Fisica	15/08/1892	05-Leone
+Mann Thomas	1929	Letteratura	06/06/1875	03-Gemelli
+Eijkman Christian	1929	Medicina	11/08/1858	05-Leone
+Hopkins Frederik Gowland	1929	Medicina	20/06/1861	03-Gemelli
+Fischer Hans	1930	Chimica	27/07/1881	05-Leone
+Raman Chandrasekhara Venkata	1930	Fisica	07/11/1888	08-Scorpione
+Lewis Sinclair	1930	Letteratura	07/02/1885	11-Aquario
+Landsteiner Karl	1930	Medicina	14/06/1868	03-Gemelli
+Sãderblom Lars Olof Nathan	1930	Pace	15/01/1866	10-Capricorno
+Bergius Friedrich	1931	Chimica	11/10/1884	07-Bilancia
+Bosch Karl	1931	Chimica	27/08/1874	06-Vergine
+Karlfeldt Erik Axel	1931	Letteratura	20/07/1864	04-Cancro
+Warburg Otto Heinrich	1931	Medicina	08/10/1883	07-Bilancia
+Addams Jane	1931	Pace	06/09/1860	06-Vergine
+Butler Nicolas Murray	1931	Pace	02/04/1862	01-Ariete
+Langmuir Irving	1932	Chimica	31/01/1881	11-Aquario
+Heisenberg Werner	1932	Fisica	05/12/1901	09-Sagittario
+Galsworth John	1932	Letteratura	14/08/1867	05-Leone
+Adrian Edgar Douglas	1932	Medicina	30/11/1889	09-Sagittario
+Sherrington Charles Scott	1932	Medicina	27/11/1857	09-Sagittario
+Dirac Paul Adrien Maurice	1933	Fisica	08/08/1902	05-Leone
+Schrãdinger Erwin	1933	Fisica	12/08/1887	05-Leone
+Morgan Thomas Hunt	1933	Medicina	25/09/1866	07-Bilancia
+Angell Ralph Norman	1933	Pace	26/12/1872	10-Capricorno
+Urey Harold Clayton	1934	Chimica	29/04/1893	02-Toro
+Pirandello Luigi	1934	Letteratura	28/06/1867	04-Cancro
+Minot George Richards	1934	Medicina	02/12/1885	09-Sagittario
+Murphy William Parry	1934	Medicina	06/02/1892	11-Aquario
+Whipple George Hoyt	1934	Medicina	28/08/1878	06-Vergine
+Henderson Arthur	1934	Pace	13/09/1863	06-Vergine
+Joliot Frãdãric	1935	Chimica	19/03/1900	12-Pesci
+Joliot-Curie Irãne	1935	Chimica	12/09/1897	06-Vergine
+Chadwick James	1935	Fisica	20/10/1891	07-Bilancia
+Spemann Hans	1935	Medicina	27/06/1869	04-Cancro
+Von Ossietzky Carl	1935	Pace	03/10/1889	07-Bilancia
+Debye Petrus Josephus Willelmus	1936	Chimica	24/03/1884	01-Ariete
+Anderson Carl David	1936	Fisica	03/09/1905	06-Vergine
+Hess Victor Franz	1936	Fisica	24/06/1883	04-Cancro
+O'neill Eugene	1936	Letteratura	16/10/1888	07-Bilancia
+Dale Henry Hallett	1936	Medicina	09/06/1875	03-Gemelli
+Lãwi Otto	1936	Medicina	03/06/1873	03-Gemelli
+Saavedra Lamas Carlos	1936	Pace	01/11/1878	08-Scorpione
+Haworth Walter Norman	1937	Chimica	19/03/1883	12-Pesci
+Paget Thomson George	1937	Fisica	03/05/1892	02-Toro
+Du Gard Roger Martin	1937	Letteratura	23/03/1881	01-Ariete
+Szent-Gyãrgy Von Nagyrapolt Albert	1937	Medicina	16/09/1893	06-Vergine
+Cecil Of Chelwood Robert	1937	Pace	14/09/1864	06-Vergine
+Kuhn Richard	1938	Chimica	03/12/1900	09-Sagittario
+Fermi Enrico	1938	Fisica	29/09/1901	07-Bilancia
+Buck Pearl	1938	Letteratura	26/06/1892	04-Cancro
+Heymans Corneille Jean-Franãois	1938	Medicina	28/03/1892	01-Ariete
+Butenandt Adolf Frederik Johann	1939	Chimica	24/03/1893	01-Ariete
+Ruzicka Leopold	1939	Chimica	13/09/1887	06-Vergine
+Lawrence Ernest Orlando	1939	Fisica	08/08/1901	05-Leone
+Sillanpãã Frans Eemil	1939	Letteratura	16/09/1888	06-Vergine
+Domagk Gerhard	1939	Medicina	30/10/1895	08-Scorpione
+De Heves George	1943	Chimica	01/08/1885	05-Leone
+Stern Otto	1943	Fisica	17/02/1888	11-Aquario
+Dam H.enrik Carl Peter	1943	Medicina	21/02/1895	12-Pesci
+Doisy Edward Adalbert	1943	Medicina	13/11/1893	08-Scorpione
+Hahn Otto	1944	Chimica	08/03/1879	12-Pesci
+Rabi Isidor Isaac	1944	Fisica	29/07/1898	05-Leone
+Erlanger J0seph	1944	Medicina	05/01/1874	10-Capricorno
+Gasser Herbert Spencer	1944	Medicina	05/07/1888	04-Cancro
+Virtanen Artturi Ilmari	1945	Chimica	15/01/1895	10-Capricorno
+Pauli Wolfgang	1945	Fisica	25/04/1900	02-Toro
+Mistral Gabriela	1945	Letteratura	07/04/1889	01-Ariete
+Chain Ernst Boris	1945	Medicina	19/06/1906	03-Gemelli
+Fleming Alexander	1945	Medicina	06/08/1881	05-Leone
+Florey Howard Walter	1945	Medicina	24/09/1898	07-Bilancia
+Hull Cordell	1945	Pace	02/10/1871	07-Bilancia
+Northrop John Howard	1946	Chimica	05/07/1891	04-Cancro
+Stanley Wendell Meredith	1946	Chimica	16/08/1904	05-Leone
+Sumner James Batcheller	1946	Chimica	19/11/1887	08-Scorpione
+Hesse Hermann	1946	Letteratura	02/07/1877	04-Cancro
+Balch Emily Greene	1946	Pace	08/01/1867	10-Capricorno
+Mott John Raleigh	1946	Pace	25/05/1865	03-Gemelli
+Robinson Robert	1947	Chimica	13/09/1886	06-Vergine
+Appleton Edward Victor	1947	Fisica	06/09/1892	06-Vergine
+Cori Carl Ferdinand	1947	Medicina	05/12/1896	09-Sagittario
+Cori Gerty Theresa	1947	Medicina	15/08/1896	05-Leone
+Houssay Bernardo Alberto	1947	Medicina	10/04/1887	01-Ariete
+Tiselius Arne Wilhelm Kaurin	1948	Chimica	10/08/1902	05-Leone
+Blackett Patrick Maynard Stuart	1948	Fisica	18/11/1897	08-Scorpione
+Eliot Thomas Stearns	1948	Letteratura	26/09/1888	07-Bilancia
+Mãller Paul Hermann	1948	Medicina	12/01/1899	10-Capricorno
+Giauque William Francis	1949	Chimica	12/05/1895	02-Toro
+Yukawa Hideki	1949	Fisica	23/01/1907	11-Aquario
+Faulkner William	1949	Letteratura	25/09/1897	07-Bilancia
+Hess Walter Rudolph	1949	Medicina	17/03/1881	12-Pesci
+Moniz Egas	1949	Medicina	29/11/1874	09-Sagittario
+Alder Kurt	1950	Chimica	10/07/1902	04-Cancro
+Diels Otto Paul Hermann	1950	Chimica	23/01/1876	11-Aquario
+Powell Cecil Frank	1950	Fisica	05/12/1903	09-Sagittario
+Russell Bertrand	1950	Letteratura	18/05/1872	02-Toro
+Hench Philip Showalter	1950	Medicina	28/02/1896	12-Pesci
+Kendall Edward Calvin	1950	Medicina	08/03/1886	12-Pesci
+Reichstein Tadeus	1950	Medicina	20/07/1897	04-Cancro
+Bunche Ralph	1950	Pace	07/08/1904	05-Leone
+Mcmillan Edwin Mattison	1951	Chimica	18/09/1907	06-Vergine
+Seaborg Glenn Theodore	1951	Chimica	19/04/1912	01-Ariete
+Cockcroft John Douglas	1951	Fisica	27/05/1897	03-Gemelli
+Walton Ernest Thomas Sinton	1951	Fisica	06/10/1903	07-Bilancia
+Lagerkvist Pãr Fabian	1951	Letteratura	23/05/1891	03-Gemelli
+Theiler Max	1951	Medicina	30/01/1899	11-Aquario
+Jouhaux Leon	1951	Pace	01/07/1879	04-Cancro
+Martin Archer John Porter	1952	Chimica	01/03/1910	12-Pesci
+Synge Richard Laurence	1952	Chimica	28/10/1914	08-Scorpione
+Purcell Edward Mills	1952	Fisica	30/08/1912	06-Vergine
+Mauriac Franãois	1952	Letteratura	11/10/1885	07-Bilancia
+Schweitzer Albert	1952	Pace	14/01/1875	10-Capricorno
+Staudinger Hermann	1953	Chimica	23/03/1891	01-Ariete
+Zernike Frits	1953	Fisica	16/07/1888	04-Cancro
+Churchill Winston	1953	Letteratura	30/11/1874	09-Sagittario
+Krebs Hans Adolf	1953	Medicina	25/08/1900	06-Vergine
+Lipmann Fritz Albert	1953	Medicina	12/06/1899	03-Gemelli
+Marshall George Catlett	1953	Pace	31/12/1880	10-Capricorno
+Pauling Linus Carl	1954	Chimica	28/02/1901	12-Pesci
+Born Max	1954	Fisica	11/12/1882	09-Sagittario
+Bothe Walther	1954	Fisica	08/01/1891	10-Capricorno
+Hemingway Ernest	1954	Letteratura	21/07/1899	04-Cancro
+Enders Johm Franklin	1954	Medicina	10/02/1897	11-Aquario
+Robbins Frederik Chapman	1954	Medicina	25/08/1916	06-Vergine
+Weller Thomas Huckle	1954	Medicina	15/06/1915	03-Gemelli
+Du Vigneaud Vincent	1955	Chimica	18/05/1901	02-Toro
+Kusch Polykarp	1955	Fisica	26/01/1911	11-Aquario
+Lamb Willis Eugene	1955	Fisica	12/07/1913	04-Cancro
+Laxness Halldãr Kiljan	1955	Letteratura	23/04/1902	02-Toro
+Theorell Axel Hugo Theodor	1955	Medicina	06/07/1903	04-Cancro
+Hinshelwood Cyril Norman	1956	Chimica	19/06/1897	03-Gemelli
+Semenov Nikolay Nikolaevich	1956	Chimica	15/04/1896	01-Ariete
+Bardeen John	1956	Fisica	23/05/1908	03-Gemelli
+Brattain Walter Houser	1956	Fisica	10/02/1902	11-Aquario
+Shockley William	1956	Fisica	13/02/1910	11-Aquario
+Jimenez Juan Ramãn	1956	Letteratura	24/12/1881	10-Capricorno
+Cournand Andrã Frãdãric	1956	Medicina	24/09/1895	07-Bilancia
+Forssmann Werner Theodor Otto	1956	Medicina	29/08/1904	06-Vergine
+Richards Dickinson Woodruff	1956	Medicina	30/10/1895	08-Scorpione
+Todd Alexander	1957	Chimica	02/10/1907	07-Bilancia
+Lee Tsung Dao	1957	Fisica	24/11/1926	09-Sagittario
+Camus Albert	1957	Letteratura	07/11/1913	08-Scorpione
+Bovet Daniel	1957	Medicina	23/03/1907	01-Ariete
+Pearson Lester Bowles	1957	Pace	23/04/1897	02-Toro
+Sanger Frederick	1958	Chimica	13/08/1918	05-Leone
+Cerenkov Pavel Alekseyevich	1958	Fisica	28/07/1904	05-Leone
+Tamm Igor Evgenyevich	1958	Fisica	08/07/1895	04-Cancro
+Pasternak Boris Leonidovich	1958	Letteratura	10/02/1890	11-Aquario
+Lederberg Joshua	1958	Medicina	23/05/1925	03-Gemelli
+Tatum Edward Lawrie	1958	Medicina	14/12/1909	09-Sagittario
+Pire Georges	1958	Pace	10/02/1910	11-Aquario
+Heyrovsky Jaroslav	1959	Chimica	20/12/1890	09-Sagittario
+Chamberlain Owen	1959	Fisica	10/07/1920	04-Cancro
+Segrã Emilio	1959	Fisica	01/02/1905	11-Aquario
+Quasimodo Salvatore	1959	Letteratura	20/08/1901	05-Leone
+Kornberg Arthur	1959	Medicina	03/03/1918	12-Pesci
+Ochoa Severo	1959	Medicina	24/09/1905	07-Bilancia
+Noel-Baker Philip John	1959	Pace	01/11/1889	08-Scorpione
+Libby Willard Frank	1960	Chimica	17/12/1908	09-Sagittario
+Glaser Donald Arthur	1960	Fisica	21/09/1926	06-Vergine
+Saint-John Perse (leger Alexis) (saint-John Perse)	1960	Letteratura	31/05/1887	03-Gemelli
+Burnet Frank Macfarlane	1960	Medicina	03/09/1899	06-Vergine
+Medawar Peter Brian	1960	Medicina	28/02/1915	12-Pesci
+Calvin Melvin	1961	Chimica	08/04/1911	01-Ariete
+Hofstadter Robert	1961	Fisica	05/02/1915	11-Aquario
+Mãssbauer Rudolf	1961	Fisica	31/01/1929	11-Aquario
+Andric Ivo	1961	Letteratura	09/10/1892	07-Bilancia
+Von Bãkãsy Georg	1961	Medicina	03/06/1899	03-Gemelli
+Hammarskjãld Dag	1961	Pace	29/07/1905	05-Leone
+Kendrew John Cowdery	1962	Chimica	24/03/1917	01-Ariete
+Perutz Max Ferdinand	1962	Chimica	19/05/1914	02-Toro
+Landau Lev Davidovic	1962	Fisica	22/01/1908	11-Aquario
+Steinbeck John	1962	Letteratura	27/02/1902	12-Pesci
+Crick Francis Harry Compton	1962	Medicina	08/06/1916	03-Gemelli
+Watson James Dewey	1962	Medicina	06/04/1928	01-Ariete
+Wilkins Maurice Hugh Frederik	1962	Medicina	15/12/1916	09-Sagittario
+Pauling Linus Carl	1962	Pace	28/02/1901	12-Pesci
+Natta Giulio	1963	Chimica	26/02/1903	12-Pesci
+Ziegler Karl	1963	Chimica	26/11/1898	09-Sagittario
+Gãppert-Mayer Maria	1963	Fisica	28/06/1906	04-Cancro
+Jensen Hans	1963	Fisica	25/06/1907	04-Cancro
+Wigner Eugene	1963	Fisica	17/11/1902	08-Scorpione
+Seferis Giorgos	1963	Letteratura	13/03/1900	12-Pesci
+Eccles John Carew	1963	Medicina	27/01/1903	11-Aquario
+Hodgkin Alan Lloyd	1963	Medicina	05/02/1914	11-Aquario
+Hodgkin Dorothy Crowfoot	1964	Chimica	12/05/1910	02-Toro
+Basov Nikolay Gennadiyevich	1964	Fisica	14/12/1922	09-Sagittario
+Prochorov Aleksandr Mikhailovich	1964	Fisica	11/07/1916	04-Cancro
+Townes Charles Hard	1964	Fisica	28/07/1915	05-Leone
+Lynen Feodor	1964	Medicina	06/04/1911	01-Ariete
+King Martin Luther	1964	Pace	15/01/1929	10-Capricorno
+Woodward Robert Burns	1965	Chimica	10/04/1917	01-Ariete
+Feynman Richard	1965	Fisica	11/05/1918	02-Toro
+Schwinger Julian	1965	Fisica	12/02/1918	11-Aquario
+Tomonaga Shin-Ichiro	1965	Fisica	31/03/1906	01-Ariete
+Sholokhov Mikhail Aleksandrovich	1965	Letteratura	24/05/1905	03-Gemelli
+Jacob Franãois	1965	Medicina	17/06/1920	03-Gemelli
+Lwoff Andrã	1965	Medicina	08/05/1902	02-Toro
+Monod Jaques	1965	Medicina	09/02/1910	11-Aquario
+Mulliken Robert Sanderson	1966	Chimica	07/06/1896	03-Gemelli
+Kastler Alfred	1966	Fisica	03/05/1902	02-Toro
+Agnon Shmuel Yosef	1966	Letteratura	17/07/1888	04-Cancro
+Sachs Nelly	1966	Letteratura	10/12/1891	09-Sagittario
+Rous Peyton	1966	Medicina	05/10/1879	07-Bilancia
+Eigen Manfred	1967	Chimica	09/05/1927	02-Toro
+Norrish Ronald George Wreyford	1967	Chimica	09/11/1897	08-Scorpione
+Porter George	1967	Chimica	06/12/1920	09-Sagittario
+Bethe Hans Albrecht	1967	Fisica	02/07/1906	04-Cancro
+Asturias Miguel Angel	1967	Letteratura	19/10/1899	07-Bilancia
+Granit Ragnar	1967	Medicina	30/10/1900	08-Scorpione
+Wald George	1967	Medicina	18/11/1906	08-Scorpione
+Onsager Lars	1968	Chimica	27/11/1903	09-Sagittario
+Alvarez Luis	1968	Fisica	13/06/1911	03-Gemelli
+Kawabata Yasunari	1968	Letteratura	11/06/1899	03-Gemelli
+Holley Robert	1968	Medicina	28/01/1922	11-Aquario
+Korana Har Gobind	1968	Medicina	09/01/1922	10-Capricorno
+Nirenberg Marshall Warren	1968	Medicina	10/04/1927	01-Ariete
+Cassin Renã	1968	Pace	05/10/1887	07-Bilancia
+Barton Derek Harold Richard	1969	Chimica	08/09/1918	06-Vergine
+Hassel Odd	1969	Chimica	17/05/1897	02-Toro
+Frisch Ragnar	1969	Economia	03/03/1895	12-Pesci
+Tinbergen Jan	1969	Economia	12/04/1903	01-Ariete
+Gell-Mann Murray	1969	Fisica	15/09/1929	06-Vergine
+Beckett Samuel	1969	Letteratura	13/04/1906	01-Ariete
+Delbrãck Max	1969	Medicina	04/09/1906	06-Vergine
+Hershey Alfred Day	1969	Medicina	04/12/1908	09-Sagittario
+Luria Salvador Edward	1969	Medicina	13/08/1912	05-Leone
+Leloir Luis	1970	Chimica	06/09/1906	06-Vergine
+Samuelson Paul	1970	Economia	15/05/1915	02-Toro
+Alfvãn Hannes Olof Gãsta	1970	Fisica	30/05/1908	03-Gemelli
+Solzhenitsyn Alexandr Isayevich	1970	Letteratura	11/12/1918	09-Sagittario
+Axelrod Julius	1970	Medicina	30/05/1912	03-Gemelli
+Katz Bernard	1970	Medicina	26/03/1911	01-Ariete
+Von Euler Ulf	1970	Medicina	07/02/1905	11-Aquario
+Borlaug Norman Ernest	1970	Pace	25/03/1914	01-Ariete
+Herzberg Gerhard	1971	Chimica	25/12/1904	10-Capricorno
+Kuznets Simon	1971	Economia	30/04/1901	02-Toro
+Gabor Dennis	1971	Fisica	05/06/1900	03-Gemelli
+Neruda Pablo	1971	Letteratura	12/07/1904	04-Cancro
+Sutherland Earl	1971	Medicina	19/11/1915	08-Scorpione
+Brandt Willy	1971	Pace	18/12/1913	09-Sagittario
+Anfinsen Christian	1972	Chimica	26/03/1916	01-Ariete
+Moore Stanford	1972	Chimica	04/09/1913	06-Vergine
+Stein William	1972	Chimica	25/06/1911	04-Cancro
+Hicks John	1972	Economia	08/04/1904	01-Ariete
+Bardeen John	1972	Fisica	23/05/1908	03-Gemelli
+Cooper Leon	1972	Fisica	28/02/1930	12-Pesci
+Schrieffer John Robert	1972	Fisica	31/05/1931	03-Gemelli
+Edelman Gerald	1972	Medicina	01/07/1929	04-Cancro
+Porter Rodney Robert	1972	Medicina	08/10/1917	07-Bilancia
+Fischer Ernst Otto	1973	Chimica	10/11/1918	08-Scorpione
+Wilkinson Geoffrey	1973	Chimica	14/07/1921	04-Cancro
+Leontief Wassily	1973	Economia	05/08/1906	05-Leone
+Esaki Leo	1973	Fisica	12/03/1925	12-Pesci
+Giaever Ivar	1973	Fisica	05/04/1929	01-Ariete
+Josephson Brian David	1973	Fisica	04/01/1940	10-Capricorno
+White Patrick	1973	Letteratura	28/05/1912	03-Gemelli
+Lorenz Konrad	1973	Medicina	07/11/1903	08-Scorpione
+Tinbergen Nikolaas	1973	Medicina	15/04/1907	01-Ariete
+Von Frisch Karl	1973	Medicina	20/11/1886	08-Scorpione
+Kissinger Henry	1973	Pace	27/05/1923	03-Gemelli
+Le Duc Tho (phan Dinh Khai)	1973	Pace	14/10/1911	07-Bilancia
+Flory Paul	1974	Chimica	19/06/1910	03-Gemelli
+Myrdal Gunnar	1974	Economia	06/12/1898	09-Sagittario
+Von Hayek Friedrich August	1974	Economia	08/05/1899	02-Toro
+Hewish Anthony	1974	Fisica	11/05/1924	02-Toro
+Ryle Martin	1974	Fisica	27/09/1918	07-Bilancia
+Johnson Eyvind	1974	Letteratura	29/07/1900	05-Leone
+Martinson Harry	1974	Letteratura	06/05/1904	02-Toro
+Claude Albert	1974	Medicina	24/08/1898	06-Vergine
+De Duve Christian	1974	Medicina	02/10/1917	07-Bilancia
+Palade George	1974	Medicina	19/11/1912	08-Scorpione
+Macbride Sãan	1974	Pace	26/01/1904	11-Aquario
+Sato Eisaku	1974	Pace	27/03/1901	01-Ariete
+Cornforth John Varcup	1975	Chimica	07/09/1917	06-Vergine
+Kantorovich  leonid Vitaliyevich	1975	Economia	19/01/1912	10-Capricorno
+Koopmans Tjalling	1975	Economia	28/08/1910	06-Vergine
+Bohr Aage Niels	1975	Fisica	19/06/1922	03-Gemelli
+Mottelson Ben Roy	1975	Fisica	09/07/1926	04-Cancro
+Rainwater Leo James	1975	Fisica	09/12/1917	09-Sagittario
+Montale Eugenio	1975	Letteratura	12/10/1896	07-Bilancia
+Baltimore David	1975	Medicina	07/03/1938	12-Pesci
+Dulbecco Renato	1975	Medicina	22/02/1914	12-Pesci
+Temin Howard	1975	Medicina	10/12/1934	09-Sagittario
+Lipscomb William	1976	Chimica	09/12/1919	09-Sagittario
+Friedman Milton	1976	Economia	31/07/1912	05-Leone
+Richter Burton	1976	Fisica	22/03/1931	01-Ariete
+Ting Samuel Chao Chung	1976	Fisica	27/01/1936	11-Aquario
+Bellow Saul	1976	Letteratura	10/06/1915	03-Gemelli
+Blumberg Baruch	1976	Medicina	28/07/1925	05-Leone
+Gajdusek Carleton	1976	Medicina	09/09/1923	06-Vergine
+Corrigan Mairead	1976	Pace	27/01/1944	11-Aquario
+Williams Betty	1976	Pace	22/05/1943	03-Gemelli
+Prigogine Ilya	1977	Chimica	25/01/1917	11-Aquario
+Meade James	1977	Economia	23/06/1907	04-Cancro
+Ohlin Bertil	1977	Economia	23/04/1899	02-Toro
+Anderson Philip Warren	1977	Fisica	13/12/1923	09-Sagittario
+Mott Nevill Francis	1977	Fisica	30/09/1905	07-Bilancia
+Van Vleck John Hasbrouck	1977	Fisica	13/03/1899	12-Pesci
+Aleixandre Vicente	1977	Letteratura	26/04/1898	02-Toro
+Guillemin Roger	1977	Medicina	11/01/1924	10-Capricorno
+Schally Andrew	1977	Medicina	30/11/1926	09-Sagittario
+Yalow Rosalyn	1977	Medicina	19/07/1921	04-Cancro
+Mitchell Peter	1978	Chimica	29/09/1920	07-Bilancia
+Simon Herbert	1978	Economia	15/06/1916	03-Gemelli
+Kapitsa Pyotr Leonidovich	1978	Fisica	08/07/1894	04-Cancro
+Penzias Arno Allan	1978	Fisica	26/04/1933	02-Toro
+Wilson Robert Woodrow	1978	Fisica	10/01/1936	10-Capricorno
+Singer Isaac Bashevis	1978	Letteratura	14/07/1904	04-Cancro
+Arber Werner	1978	Medicina	03/06/1929	03-Gemelli
+Nathans Daniel	1978	Medicina	30/10/1938	08-Scorpione
+Begin Menachem	1978	Pace	16/08/1913	05-Leone
+Sadat (el) Anwar	1978	Pace	25/12/1918	10-Capricorno
+Brown Herbert	1979	Chimica	22/05/1912	03-Gemelli
+Wittig Georg	1979	Chimica	16/06/1897	03-Gemelli
+Lewis Arthur	1979	Economia	23/01/1915	11-Aquario
+Schultz Theodore	1979	Economia	30/04/1902	02-Toro
+Glashow Sheldon Lee	1979	Fisica	05/12/1932	09-Sagittario
+Salam Abdus	1979	Fisica	29/01/1926	11-Aquario
+Weinberg Steven	1979	Fisica	03/05/1933	02-Toro
+Elytis Odysseus	1979	Letteratura	02/11/1911	08-Scorpione
+Cormack Allan	1979	Medicina	23/02/1924	12-Pesci
+Hounsfield Godfrey	1979	Medicina	28/08/1919	06-Vergine
+Madre Teresa Di Calcutta	1979	Pace	26/08/1910	06-Vergine
+Berg Paul	1980	Chimica	30/06/1926	04-Cancro
+Sanger Frederick	1980	Chimica	13/08/1918	05-Leone
+Klein Lawrence	1980	Economia	14/09/1920	06-Vergine
+Cronin James Watson	1980	Fisica	29/09/1931	07-Bilancia
+Fitch Val Logsdon	1980	Fisica	10/03/1923	12-Pesci
+Milosz Czeslaw	1980	Letteratura	30/06/1911	04-Cancro
+Benacerraf Baruj	1980	Medicina	29/10/1920	08-Scorpione
+Dausset Jean	1980	Medicina	19/10/1916	07-Bilancia
+Snell George	1980	Medicina	19/12/1903	09-Sagittario
+Perez Esquivel Adolfo	1980	Pace	26/11/1931	09-Sagittario
+Fukui Kenichi	1981	Chimica	04/10/1918	07-Bilancia
+Hoffmann Roald	1981	Chimica	18/07/1937	04-Cancro
+Tobin James	1981	Economia	05/03/1918	12-Pesci
+Blãmbergen Nicolaas	1981	Fisica	11/03/1920	12-Pesci
+Schawlow Artur Leonard	1981	Fisica	05/05/1921	02-Toro
+Canetti Elias	1981	Letteratura	25/07/1905	05-Leone
+Hubel David	1981	Medicina	27/02/1926	12-Pesci
+Sperry Roger	1981	Medicina	20/08/1913	05-Leone
+Wiesel Torsten	1981	Medicina	03/06/1924	03-Gemelli
+Klug Aaron	1982	Chimica	11/08/1926	05-Leone
+Stigler George	1982	Economia	17/01/1911	10-Capricorno
+Wilson Kenneth	1982	Fisica	08/06/1936	03-Gemelli
+Garcia Marquez Gabriel	1982	Letteratura	06/03/1928	12-Pesci
+Bergstroem S.k.	1982	Medicina	10/01/1916	10-Capricorno
+Vane John	1982	Medicina	29/03/1927	01-Ariete
+Myrdal Alva	1982	Pace	31/01/1902	11-Aquario
+Taube Henry	1983	Chimica	30/11/1915	09-Sagittario
+Debreu Gerard	1983	Economia	04/07/1921	04-Cancro
+Chandrasekar Subramanyan	1983	Fisica	19/10/1910	07-Bilancia
+Fowler William Alfred	1983	Fisica	09/08/1911	05-Leone
+Golding William	1983	Letteratura	19/09/1911	06-Vergine
+Mcclintock Barbara	1983	Medicina	16/06/1920	03-Gemelli
+Walesa Lech	1983	Pace	29/09/1943	07-Bilancia
+Merrifield Bruce	1984	Chimica	15/07/1921	04-Cancro
+Stone Richard	1984	Economia	30/08/1913	06-Vergine
+Rubbia Carlo	1984	Fisica	31/03/1934	01-Ariete
+Van Der Meer Simon	1984	Fisica	24/11/1925	09-Sagittario
+Jerne Niels	1984	Medicina	23/12/1911	10-Capricorno
+Kãhler Georg	1984	Medicina	17/04/1946	01-Ariete
+Milstein Cãsar	1984	Medicina	08/10/1927	07-Bilancia
+Tutu Desmond Mpilo	1984	Pace	07/10/1931	07-Bilancia
+Hauptman Herbert	1985	Chimica	14/02/1917	11-Aquario
+Karle Jerome	1985	Chimica	18/06/1918	03-Gemelli
+Modigliani Franco	1985	Economia	18/06/1918	03-Gemelli
+Von Klitzing Klaus	1985	Fisica	28/06/1943	04-Cancro
+Simon Claude	1985	Letteratura	10/10/1913	07-Bilancia
+Brown Michael	1985	Medicina	13/04/1941	01-Ariete
+Goldstein Joseph	1985	Medicina	18/04/1940	01-Ariete
+Herschbach Dudley	1986	Chimica	18/06/1932	03-Gemelli
+Lee Yuan	1986	Chimica	19/11/1936	08-Scorpione
+Polanyi John Charles	1986	Chimica	23/01/1929	11-Aquario
+Buchanan James	1986	Economia	03/10/1919	07-Bilancia
+Binnig Gerd	1986	Fisica	20/07/1947	04-Cancro
+Rohrer Heinrich	1986	Fisica	06/06/1933	03-Gemelli
+Ruska Ernst	1986	Fisica	25/12/1906	10-Capricorno
+Soyinka Wole	1986	Letteratura	13/07/1934	04-Cancro
+Cohen Stanley	1986	Medicina	17/11/1922	08-Scorpione
+Levi Montalcini Rita	1986	Medicina	22/04/1909	02-Toro
+Wiesel Elie	1986	Pace	30/09/1938	07-Bilancia
+Cram Donald	1987	Chimica	22/04/1919	02-Toro
+Lehn Jean-Marie	1987	Chimica	30/09/1939	07-Bilancia
+Pedersen Charles	1987	Chimica	03/10/1904	07-Bilancia
+Bednorz Georg	1987	Fisica	16/05/1950	02-Toro
+Brodskij Joseph	1987	Letteratura	24/05/1940	03-Gemelli
+Tonegawa Susumu	1987	Medicina	06/09/1939	06-Vergine
+Arias Sanchez Oscar	1987	Pace	13/09/1941	06-Vergine
+Deisenhofer Johann	1988	Chimica	30/09/1943	07-Bilancia
+Michel Hartmut	1988	Chimica	18/07/1948	04-Cancro
+Allais Maurice	1988	Economia	31/05/1911	03-Gemelli
+Lederman Leon	1988	Fisica	15/07/1922	04-Cancro
+Schwartz Melvin	1988	Fisica	02/11/1932	08-Scorpione
+Steinberger Jack	1988	Fisica	25/05/1921	03-Gemelli
+Mahfuz Naguib	1988	Letteratura	11/12/1911	09-Sagittario
+Black James	1988	Medicina	14/06/1924	03-Gemelli
+Elion Gertrude	1988	Medicina	23/01/1918	11-Aquario
+Hitchings George	1988	Medicina	18/04/1905	01-Ariete
+Altman Sidney	1989	Chimica	07/05/1939	02-Toro
+Cech Thomas Robert	1989	Chimica	08/12/1947	09-Sagittario
+Haavelmo Trygve	1989	Economia	13/12/1911	09-Sagittario
+Dehmelt Hans	1989	Fisica	09/09/1922	06-Vergine
+Paul Wolfgang	1989	Fisica	10/08/1913	05-Leone
+Ramsey Norman	1989	Fisica	27/08/1915	06-Vergine
+Cela Camilo Jose	1989	Letteratura	11/05/1916	02-Toro
+Bishop Michael	1989	Medicina	22/02/1936	12-Pesci
+Varmus Harold	1989	Medicina	18/12/1939	09-Sagittario
+The 14. Dalai Lama (tenzin Gyatso)	1989	Pace	06/07/1935	04-Cancro
+Corey Elias James	1990	Chimica	12/07/1928	04-Cancro
+Markowitz Harry	1990	Economia	24/08/1927	06-Vergine
+Miller Merton	1990	Economia	16/05/1923	02-Toro
+Sharpe William	1990	Economia	16/06/1934	03-Gemelli
+Friedman Jerome	1990	Fisica	28/03/1930	01-Ariete
+Kendall Henry	1990	Fisica	09/12/1926	09-Sagittario
+Taylor Richard	1990	Fisica	02/11/1929	08-Scorpione
+Paz Octavio	1990	Letteratura	31/03/1914	01-Ariete
+Murray Joseph	1990	Medicina	01/04/1919	01-Ariete
+Thomas Donnall	1990	Medicina	15/03/1920	12-Pesci
+Gorbachev Mikhail	1990	Pace	02/03/1931	12-Pesci
+Ernst Richard	1991	Chimica	14/08/1933	05-Leone
+Coase Ronald	1991	Economia	29/12/1910	10-Capricorno
+Gennes (de) Pierre Gilles	1991	Fisica	24/10/1932	08-Scorpione
+Gordimer Nadine	1991	Letteratura	20/11/1923	08-Scorpione
+Sakmann Bert	1991	Medicina	12/06/1942	03-Gemelli
+Aung San Su Kyi	1991	Pace	19/06/1945	03-Gemelli
+Marcus Rudolph	1992	Chimica	21/07/1923	04-Cancro
+Becker Gary	1992	Economia	02/12/1930	09-Sagittario
+Charpak Georges	1992	Fisica	01/08/1924	05-Leone
+Walcott Derek	1992	Letteratura	23/01/1930	11-Aquario
+Fischer Edmond	1992	Medicina	06/04/1920	01-Ariete
+Krebs Edwin	1992	Medicina	06/06/1918	03-Gemelli
+Mullis Kary	1993	Chimica	28/12/1944	10-Capricorno
+Smith Michael	1993	Chimica	26/04/1932	02-Toro
+Fogel Robert	1993	Economia	01/07/1926	04-Cancro
+North Douglas	1993	Economia	05/11/1920	08-Scorpione
+Hulse Russel	1993	Fisica	28/11/1950	09-Sagittario
+Taylor Joseph	1993	Fisica	29/03/1941	01-Ariete
+Morrison Toni	1993	Letteratura	18/02/1931	11-Aquario
+Roberts Richard	1993	Medicina	06/09/1943	06-Vergine
+Sharp Phillip	1993	Medicina	06/06/1944	03-Gemelli
+De Klerk Frederik Villem	1993	Pace	18/03/1936	12-Pesci
+Mandela Nelson Rolihlahla	1993	Pace	18/07/1918	04-Cancro
+Olah George	1994	Chimica	22/05/1927	03-Gemelli
+Harsanyi John	1994	Economia	29/05/1920	03-Gemelli
+Nash John	1994	Economia	13/06/1928	03-Gemelli
+Selten Reinhard	1994	Economia	05/10/1930	07-Bilancia
+Brockhouse Bertram	1994	Fisica	15/07/1918	04-Cancro
+Oe Kenzaburo	1994	Letteratura	31/01/1935	11-Aquario
+Gilman Alfred	1994	Medicina	01/07/1941	04-Cancro
+Rodbell Martin	1994	Medicina	01/12/1925	09-Sagittario
+Arafat Yasser	1994	Pace	24/08/1929	06-Vergine
+Peres Shimon	1994	Pace	16/08/1923	05-Leone
+Rabin Yitzhak	1994	Pace	01/03/1922	12-Pesci
+Crutzen Paul	1995	Chimica	03/12/1933	09-Sagittario
+Molina Mario	1995	Chimica	19/03/1943	12-Pesci
+Rowland Sherwood	1995	Chimica	28/06/1927	04-Cancro
+Lucas Robert	1995	Economia	15/09/1937	06-Vergine
+Perl Martin	1995	Fisica	24/06/1927	04-Cancro
+Reines Frederik	1995	Fisica	16/03/1918	12-Pesci
+Heaney Seamus	1995	Letteratura	13/04/1939	01-Ariete
+Nãsslein-Volhard Christiane	1995	Medicina	20/10/1942	07-Bilancia
+Wieschaus Eric	1995	Medicina	08/06/1947	03-Gemelli
+Rotblat Joseph	1995	Pace	04/11/1908	08-Scorpione
+Kroto Harold	1996	Chimica	07/10/1939	07-Bilancia
+Smalley Richard	1996	Chimica	06/06/1943	03-Gemelli
+Mirrlees James	1996	Economia	05/07/1936	04-Cancro
+Osheroff Douglas	1996	Fisica	01/08/1945	05-Leone
+Richardson Robert	1996	Fisica	26/06/1937	04-Cancro
+Szymborska Wislawa	1996	Letteratura	02/07/1923	04-Cancro
+Doherty Peter	1996	Medicina	15/10/1940	07-Bilancia
+Zinkernagel Rolf	1996	Medicina	06/01/1944	10-Capricorno
+Belo Carlos Felipe Ximenes	1996	Pace	03/02/1948	11-Aquario
+Ramos-Horta Jose	1996	Pace	26/12/1949	10-Capricorno
+Boyer Paul	1997	Chimica	31/07/1918	05-Leone
+Skou Jens	1997	Chimica	08/10/1918	07-Bilancia
+Walker John	1997	Chimica	07/01/1941	10-Capricorno
+Merton Robert	1997	Economia	31/07/1944	05-Leone
+Scholes Myron	1997	Economia	01/07/1941	04-Cancro
+Chu Steven	1997	Fisica	28/02/1948	12-Pesci
+Cohen-Tannoudji Claude	1997	Fisica	01/04/1933	01-Ariete
+Phillips William	1997	Fisica	05/11/1848	08-Scorpione
+Fo Dario	1997	Letteratura	24/03/1926	01-Ariete
+Prusiner Stanley	1997	Medicina	28/05/1942	03-Gemelli
+Williams Jody	1997	Pace	09/10/1950	07-Bilancia
+Kohn Walter	1998	Chimica	09/03/1923	12-Pesci
+Pople John	1998	Chimica	31/10/1925	08-Scorpione
+Sen Amartya	1998	Economia	03/11/1933	08-Scorpione
+Laughlin Robert	1998	Fisica	01/11/1950	08-Scorpione
+Stãrmer Horst	1998	Fisica	06/04/1949	01-Ariete
+Tsui Daniel	1998	Fisica	28/02/1939	12-Pesci
+Saramago Jose	1998	Letteratura	16/11/1922	08-Scorpione
+Furchgott Robert	1998	Medicina	04/06/1916	03-Gemelli
+Ignarro Louis	1998	Medicina	31/05/1941	03-Gemelli
+Murad Ferid	1998	Medicina	14/09/1936	06-Vergine
+Hume John	1998	Pace	18/01/1937	10-Capricorno
+Trimble David	1998	Pace	15/10/1944	07-Bilancia
+Zewail Ahmed	1999	Chimica	26/02/1946	12-Pesci
+Mundell Robert	1999	Economia	24/10/1932	08-Scorpione
+T'hoft Gerardus	1999	Fisica	05/07/1946	04-Cancro
+Veltman Martinus	1999	Fisica	27/06/1931	04-Cancro
+Grass Gãnter	1999	Letteratura	16/10/1927	07-Bilancia
+Heeger Alan	2000	Chimica	22/01/1936	11-Aquario
+Macdiarmid Alan	2000	Chimica	14/04/1927	01-Ariete
+Shirakawa Hideki	2000	Chimica	20/08/1936	05-Leone
+Heckman James	2000	Economia	19/04/1944	01-Ariete
+Mcfadden Daniel	2000	Economia	29/07/1937	05-Leone
+Alferov Zhores	2000	Fisica	15/03/1930	12-Pesci
+Kilby Jack	2000	Fisica	08/11/1923	08-Scorpione
+Krãmer Herbert	2000	Fisica	25/08/1928	06-Vergine
+Xingjian Gao	2000	Letteratura	04/01/1940	10-Capricorno
+Carlsson Arvid	2000	Medicina	25/01/1923	11-Aquario
+Greengard Paul	2000	Medicina	11/12/1925	09-Sagittario
+Kandel Eric	2000	Medicina	07/11/1929	08-Scorpione
+Dae-Jung Kim	2000	Pace	03/12/1925	09-Sagittario
+Knowles William	2001	Chimica	01/06/1917	03-Gemelli
+Noyori Ryoji	2001	Chimica	03/09/1938	06-Vergine
+Sharpless Barry	2001	Chimica	28/04/1941	02-Toro
+Akerlof George	2001	Economia	17/06/1940	03-Gemelli
+Spence Michael	2001	Economia	07/11/1943	08-Scorpione
+Stiglitz Joseph	2001	Economia	09/02/1943	11-Aquario
+Naipaul Vidiadhar Surajpresad	2001	Letteratura	17/08/1932	05-Leone
+Hartwell Leland	2001	Medicina	30/10/1939	08-Scorpione
+Nurse Paul	2001	Medicina	25/01/1949	11-Aquario
+Annan Kofi	2001	Pace	08/04/1938	01-Ariete
+Fenn John	2002	Chimica	15/06/1917	03-Gemelli
+Wãthrich Kurt	2002	Chimica	04/10/1938	07-Bilancia
+Kahneman Daniel	2002	Economia	05/03/1934	12-Pesci
+Smith Vernon	2002	Economia	01/01/1927	10-Capricorno
+Davis Raymond	2002	Fisica	14/10/1914	07-Bilancia
+Giacconi Riccardo	2002	Fisica	06/10/1931	07-Bilancia
+Koshiba Masatoshi	2002	Fisica	19/09/1926	06-Vergine
+Kertãsz Imre	2002	Letteratura	09/11/1929	08-Scorpione
+Brenner Sydney	2002	Medicina	13/01/1927	10-Capricorno
+Horvitz Robert	2002	Medicina	08/05/1947	02-Toro
+Sulston John	2002	Medicina	27/03/1942	01-Ariete
+Carter Jimmy	2002	Pace	01/10/1924	07-Bilancia
+Agre Peter	2003	Chimica	30/01/1949	11-Aquario
+Engle Robert Iii	2003	Economia	10/11/1942	08-Scorpione
+Granger Clive	2003	Economia	04/09/1934	06-Vergine
+Abrikosov Alexei	2003	Fisica	25/06/1928	04-Cancro
+Ginzburg Vitaly	2003	Fisica	04/10/1916	07-Bilancia
+Leggett Anthony	2003	Fisica	26/03/1938	01-Ariete
+Coetzee John	2003	Letteratura	09/02/1940	11-Aquario
+Lauterbur Paul	2003	Medicina	06/05/1929	02-Toro
+Mansfield Peter	2003	Medicina	09/10/1933	07-Bilancia
+Ciechanover Aaron	2004	Chimica	01/10/1947	07-Bilancia
+Hershko Avram	2004	Chimica	31/12/1937	10-Capricorno
+Rose Irwin	2004	Chimica	16/07/1926	04-Cancro
+Kydland Finn	2004	Economia	01/12/1943	09-Sagittario
+Prescott Edward	2004	Economia	26/12/1940	10-Capricorno
+Politzer David	2004	Fisica	31/08/1949	06-Vergine
+Jelinek Elfriede	2004	Letteratura	20/10/1946	07-Bilancia
+Axel Richard	2004	Medicina	02/07/1946	04-Cancro
+Buck Linda	2004	Medicina	29/01/1947	11-Aquario
+Maathai Wangari Muta	2004	Pace	01/04/1940	01-Ariete
+Chauvin Yves	2005	Chimica	10/10/1930	07-Bilancia
+Grubbs Robert	2005	Chimica	27/02/1942	12-Pesci
+Schrock Richard	2005	Chimica	04/01/1945	10-Capricorno
+Aumann Robert	2005	Economia	08/06/1930	03-Gemelli
+Schelling Thomas	2005	Economia	14/04/1921	01-Ariete
+Glauber Roy	2005	Fisica	01/09/1925	06-Vergine
+Hall John	2005	Fisica	21/08/1934	05-Leone
+Hãnsch Theodor	2005	Fisica	30/10/1941	08-Scorpione
+Pinter Harold	2005	Letteratura	10/10/1930	07-Bilancia
+Warren Robin	2005	Medicina	11/06/1937	03-Gemelli
+Elbaradei Mohamed	2005	Pace	17/06/1942	03-Gemelli
+Kornberg Roger	2006	Chimica	24/04/1947	02-Toro
+Phelps Edmund	2006	Economia	26/07/1933	05-Leone
+Mather John	2006	Fisica	07/08/1946	05-Leone
+Yunus Muhammad	2006	Pace	28/06/1940	04-Cancro
+Ertl Gerhad	2007	Chimica	10/10/1936	07-Bilancia
+Hurwicz Leonid	2007	Economia	21/08/1917	05-Leone
+Maskin Eric	2007	Economia	12/12/1950	09-Sagittario
+Fert Albert	2007	Fisica	07/03/1938	12-Pesci
+Grãnberg Peter	2007	Fisica	18/05/1939	02-Toro
+Capecchi Mario	2007	Medicina	06/10/1937	07-Bilancia
+Evans Martin	2007	Medicina	01/01/1941	10-Capricorno
+Smithies Oliver	2007	Medicina	23/06/1925	04-Cancro
+Gore Al	2007	Pace	31/03/1948	01-Ariete
+Chalfie Martin	2008	Chimica	15/01/1946	10-Capricorno
+Shimomura Osamu	2008	Chimica	27/08/1928	06-Vergine
+Kobayashi Makoto	2008	Fisica	07/04/1944	01-Ariete
+Maskawa Toshihide	2008	Fisica	07/02/1940	11-Aquario
+Nambu Yoichiro	2008	Fisica	18/01/1921	10-Capricorno
+Le Clezio Jean-Marie Gustave	2008	Letteratura	13/04/1940	01-Ariete
+Barrã-Sinoussi Franãoise	2008	Medicina	30/07/1947	05-Leone
+Montagnier Luc	2008	Medicina	18/08/1932	05-Leone
+Zur Hausen Harald	2008	Medicina	11/03/1936	12-Pesci
+Ahtisaari Martti	2008	Pace	23/06/1937	04-Cancro
+Ostrom Elinor	2009	Economia	07/08/1933	05-Leone
+Williamson Oliver	2009	Economia	27/09/1932	07-Bilancia
+Boyle Willard	2009	Fisica	18/09/1924	06-Vergine
+Kao Charles	2009	Fisica	04/11/1933	08-Scorpione
+Smith George	2009	Fisica	10/05/1930	02-Toro
+Blackburn Elizabeth	2009	Medicina	26/11/1948	09-Sagittario
+Heck Richard	2010	Chimica	15/08/1931	05-Leone
+Negishi Ei-Ichi	2010	Chimica	14/07/1935	04-Cancro
+Suzuki Akira	2010	Chimica	12/09/1930	06-Vergine
+Diamond Peter	2010	Economia	29/04/1940	02-Toro
+Mortesen Dale	2010	Economia	02/02/1939	11-Aquario
+Vargas Llosa Mario	2010	Letteratura	28/03/1936	01-Ariete
+Geeoffry Edwards Robert	2010	Medicina	27/09/1925	07-Bilancia
+Shechtman Dan	2011	Chimica	24/01/1941	11-Aquario
+Sargent Thomas	2011	Economia	19/07/1943	04-Cancro
+Sims Christopher	2011	Economia	21/10/1942	07-Bilancia
+Tranströmer Tomas	2011	Letteratura	15/04/1931	01-Ariete
+Hoffmann Jules	2011	Medicina	02/08/1941	05-Leone
+Steinman Ralph	2011	Medicina	14/01/1943	10-Capricorno
+Johnson Sirleaf Ellen	2011	Pace	29/10/1938	08-Scorpione
+Lefkowitz Robert	2012	Chimica	15/04/1943	01-Ariete
+Lloyd Stowell Shapley	2012	Economia	02/06/1923	03-Gemelli
+Haroche Serge	2012	Fisica	11/09/1944	06-Vergine
+Wineland David	2012	Fisica	24/02/1944	12-Pesci
+Gurdon John	2012	Medicina	02/10/1933	07-Bilancia
+Karplus Martin	2013	Chimica	15/03/1930	12-Pesci
+Levitt Michael	2013	Chimica	09/05/1947	02-Toro
+Varshel Arieh	2013	Chimica	20/11/1940	08-Scorpione
+Fama Eugene	2013	Economia	14/03/1939	12-Pesci
+Shiller Robert	2013	Economia	29/03/1946	01-Ariete
+Englert François	2013	Fisica	06/11/1932	08-Scorpione
+Higgs Peter	2013	Fisica	29/05/1929	03-Gemelli
+Munro Alice	2013	Letteratura	10/07/1931	04-Cancro
+Rothman James	2013	Medicina	03/11/1950	08-Scorpione
+Schekman Randy	2013	Medicina	30/12/1948	10-Capricorno
+Akasaki Isamu	2014	Fisica	30/01/1929	11-Aquario
+Modiano Patrick	2014	Letteratura	30/07/1945	05-Leone
+O'keefe John	2014	Medicina	18/11/1939	08-Scorpione
+Lindahl Tomas	2015	Chimica	28/01/1938	11-Aquario
+Modrich Paul	2015	Chimica	13/06/1946	03-Gemelli
+Sancar Aziz	2015	Chimica	08/09/1946	06-Vergine
+Deaton Angus	2015	Economia	19/10/1945	07-Bilancia
+Mcdonald Arthur	2015	Fisica	29/08/1943	06-Vergine
+Aleksievič Svjatlana	2015	Letteratura	31/05/1948	03-Gemelli
+Campbell William	2015	Medicina	28/06/1930	04-Cancro
+Ōmura Satoshi	2015	Medicina	12/07/1935	04-Cancro
+Tu Youyou	2015	Medicina	30/12/1930	10-Capricorno
+Sauvage Jeanne-Pierre	2016	Chimica	21/10/1944	07-Bilancia
+Stoddart Fraser	2016	Chimica	24/05/1942	03-Gemelli
+Hart Oliver	2016	Economia	09/10/1948	07-Bilancia
+Holmström Bengt	2016	Economia	18/04/1949	01-Ariete
+Thouless David	2016	Fisica	21/09/1934	06-Vergine
+Dylan Bob	2016	Letteratura	24/05/1941	03-Gemelli
+Ōsumi Yoshinori	2016	Medicina	09/02/1945	11-Aquario
+Dubochet Jacques	2017	Chimica	08/06/1942	03-Gemelli
+Frank Joachim	2017	Chimica	12/09/1940	06-Vergine
+Henderson Richard	2017	Chimica	19/07/1945	04-Cancro
+Thale Richard	2017	Economia	12/09/1945	06-Vergine
+Barish Barry	2017	Fisica	27/11/1936	09-Sagittario
+Thorne kip	2017	Fisica	01/06/1940	03-Gemelli
+Weiss Rainer	2017	Fisica	29/09/1932	07-Bilancia
+Hall Jeffrey	2017	Medicina	03/05/1945	02-Toro
+Rosbash Michael	2017	Medicina	07/03/1944	12-Pesci
+Young Michael	2017	Medicina	28/03/1949	01-Ariete
+George P. Smith	2018	Chimica	10/03/1941	12-Pesci
+Arthur Ashkin	2018	Fisica	02/09/1922	06-Vergine
+James P. Allison	2018	Medicina	07/08/1948	05-Leone
+Tasuku Honjo	2018	Medicina	27/01/1942	11-Aquario
+Akira Yoshino	2019	Chimica	30/01/1948	11-Aquario
+John B. Goodenough	2019	Chimica	25/07/1922	05-Leone
+James Peebles	2019	Fisica	25/05/1935	03-Gemelli
+Michel Mayor	2019	Fisica	12/01/1942	10-Capricorno
+Peter Handke	2019	Letteratura	06/12/1942	09-Sagittario
+Roger Penrose	2020	Fisica	08/08/1931	05-Leone
+Louise Glück	2020	Letteratura	22/04/1943	02-Toro
+Harvey J. Alter	2020	Medicina	12/09/1935	06-Vergine
